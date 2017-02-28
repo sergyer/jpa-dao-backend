@@ -1,0 +1,1 @@
+INSERT INTO jobfinder.job (title, description, postdate, deadline) VALUES ('Java Developer', 'Self-motivated enthusiastic person', '2016-12-09', '2017-01-31');
