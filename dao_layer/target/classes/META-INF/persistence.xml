@@ -5,11 +5,7 @@
     <class>com.project.entities.Person</class>
     <class>com.project.entities.Job</class>
     <properties>
-<<<<<<< HEAD
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/test?zeroDateTimeBehavior=convertToNull&amp;amp;useUnicode=yes&amp;amp;characterEncoding=UTF-8"/>
-=======
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jobfinder?zeroDateTimeBehavior=convertToNull&amp;amp;useUnicode=yes&amp;amp;characterEncoding=UTF-8"/>
->>>>>>> 1774efa71d02391ee1ec73bdc9ec6ed4798eacd2
       <property name="javax.persistence.jdbc.user" value="root"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
       <property name="javax.persistence.jdbc.password" value="root"/>
